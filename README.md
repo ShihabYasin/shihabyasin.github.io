@@ -33,6 +33,10 @@ Natural language processing, DevOps.
 
 **Current: Manager, DevSecOps @ Robi Axiata Limited**
 
+* AI assisted (GenAI LLM) penetration testing framework development to reduce Opex for overall cybersecurity budget.
+* Predictive AI for Server failure prediction analyzing OpenTelemetry Signals.
+* AI driven (GenAI LLM) software code repo doc generation and continuous maintenance for more than 200 software repos.
+* [Secured “Special Recognition Awards” as team lead at “AWS Generative AI Hackathon By Axiata” in 2025](https://github.com/ShihabYasin/shihabyasin.github.io/blob/gh-pages/CertificatesOfCompletion/Axiata%20Hackathon%202025%20with%20AWS2.1%20signed_comp%2056.pdf)
 * Govern Software Development (all [ROBI](https://www.robi.com.bd/en) solutions from [Reddot Digital Limited](https://www.reddotdigitalit.com/) & other Vendors), ensuring code quality, Security Compliance, Code Review, Penetration testing, data privacy. 
 * Implementing secure coding guidelines. Software Architectural design decision(view model, 4+1, UML, system design etc.), Microservices, SOLID, OOP, DRY, KISS, Agile Scrum, TDD, BDD, DDD, best practices for SDLC, STLC. 
 * Software Development Process improvement from Business analysis to deployment eliminating the gap between Software Industry best practices & existing in-house development practices. Developer advocacy for DevSeqOps Cultural Adoption.

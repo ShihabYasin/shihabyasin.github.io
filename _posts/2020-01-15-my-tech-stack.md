@@ -6,8 +6,10 @@ category: MY-TECH-STACK
 ---
 
 ### 1. Development:
-* Python, C,C++, Flask, Django, MongoDB, PostgreSQL, RabbitMQ, Redis, Celery, Docker, Nginx, Gunicorn, Jenkins, Git, Selenium, MySQL
+* GenAI, LLM, vllm, Cline, Claude, ChromaDB, Spark, MLFlow, AirFlow, Tableau, Evidently
+* Python, C,C++, Flask, Django, MongoDB, PostgreSQL, RabbitMQ, Redis, Celery, Docker, k8s, Nginx, Gunicorn, Jenkins, Git, Selenium, MySQL
 * NumPy, SciPy, Matplotlib, Pandas, Jupyter, PyMySQL, PyMongo, SQLAlchemy, pytest, unittest, redis-py, torch-audio
+* SonarQube, BurpSuit, Nessus, MobSF, AIF360
 * **OS:** Linux(Bash), Android, VirtualBox, Tizen
 
 
